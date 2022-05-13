@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	
-	//Adicionado Olá Mundo - Saída de dados - ESCRECA
+	//Adicionado Olá Mundo - Saída de dados - ESCREVA
 	
 	printf("Hello Word");
 	
